@@ -1,0 +1,2 @@
+PYTHONPATH="/Me/Documents/mydir:$PYTHONPATH"
+export PYTHONPATH
